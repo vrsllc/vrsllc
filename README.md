@@ -5,7 +5,7 @@ We're a full-service enterprise web application development shop focusing on Dru
 ### Follow our founder!
 <p>
   <a class="Box-row-link" href="https://github.com/reapbooster" target="_blank">
-    <img alt="Jose Ramirez - Reapbooster" class="col-md-4" src="https://avatars.githubusercontent.com/u/17464842?v=4" />
+    <img alt="Jose Ramirez - Reapbooster" class="col-md-2" src="https://avatars.githubusercontent.com/u/17464842?v=4" />
   </a>
 </p>
 
