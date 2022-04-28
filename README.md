@@ -2,13 +2,6 @@
 
 We're a full-service enterprise web application development shop focusing on Drupal and ReactJS.
 
-### Follow our founder!
-<p>
-  <a class="Box-row-link" href="https://github.com/reapbooster" target="_blank">
-    <img alt="Jose Ramirez - Reapbooster" class="col-md-2" src="https://avatars.githubusercontent.com/u/17464842?v=4" />
-  </a>
-</p>
-
 ### Latest Creations
 <p>
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
@@ -30,3 +23,10 @@ We're a full-service enterprise web application development shop focusing on Dru
 
 ### Operating Systems
 ![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_8.0-red?logo=redhat&logoColor=white&style=plastic) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_21.04-FFDC00?logo=ubuntu&logoColor=white&style=plastic) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.14-5070A0?logo=alpinelinux&logoColor=white&style=plastic) ![Windows Server](https://img.shields.io/badge/Windows-Server_2003_--_2019-00A4EF?logo=windows&logoColor=white&style=plastic)
+
+### Follow our founder!
+<p>
+  <a class="Box-row-link" href="https://github.com/reapbooster" target="_blank">
+    <img alt="Jose Ramirez - Reapbooster" width="150" src="https://avatars.githubusercontent.com/u/17464842?v=4" />
+  </a>
+</p>
